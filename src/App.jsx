@@ -4,7 +4,7 @@ function App() {
 
     return (
         <>
-            Maak je applicatie hier!
+            Maak je applicatie hier!!
         </>
     )
 }
